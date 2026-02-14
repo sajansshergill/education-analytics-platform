@@ -2,6 +2,8 @@
 
 Simulating how a data science team would analyze, experiment on, and optimize an AI-powered education product.
 
+**🟢 [Live Demo](https://education-analytics-platform.streamlit.app)** — View the dashboard online
+
 This project mirrors real-world product analytics workflows used at companies like Google, focusing on metrics ownership, experimentation, causal inference, and LLM quality evaluation.
 
 ---
@@ -137,7 +139,7 @@ Interactive Dashboard for stakeholders:
 - User segmentation
 - LLM quality monitoring
 
-Built with Stremalit
+Built with Streamlit — **[View deployed dashboard →](https://education-analytics-platform.streamlit.app)**
 
 ---
 
